@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Софья Бандурина](https://up.htmlacademy.ru/adaptive-individual/2/user/2498141).
-* Наставник: [Артём Картавый](https://github.com/SofiaBandurina/2498141-cat-energy-2/pull/1).
+* Наставник: [Артём Картавый](https://htmlacademy.ru/profile/artem_k).
 
 ---
 
